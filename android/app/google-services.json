@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237731937838",
+    "project_id": "fableverse-a8085",
+    "storage_bucket": "fableverse-a8085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237731937838:android:1babbe8445282de307a9bf",
+        "android_client_info": {
+          "package_name": "com.fableverse.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHDWqGwjdtpChLhaAtAN3r6C2QCIodHuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
